@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\training\TypeConversations\bin\Debug\net7.0\TypeConversations.exe
+C:\Users\HP\Desktop\training\TypeConversations\bin\Debug\net7.0\TypeConversations.deps.json
+C:\Users\HP\Desktop\training\TypeConversations\bin\Debug\net7.0\TypeConversations.runtimeconfig.json
+C:\Users\HP\Desktop\training\TypeConversations\bin\Debug\net7.0\TypeConversations.dll
+C:\Users\HP\Desktop\training\TypeConversations\bin\Debug\net7.0\TypeConversations.pdb
+C:\Users\HP\Desktop\training\TypeConversations\obj\Debug\net7.0\TypeConversations.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\training\TypeConversations\obj\Debug\net7.0\TypeConversations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\training\TypeConversations\obj\Debug\net7.0\TypeConversations.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\training\TypeConversations\obj\Debug\net7.0\TypeConversations.AssemblyInfo.cs
+C:\Users\HP\Desktop\training\TypeConversations\obj\Debug\net7.0\TypeConversations.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\training\TypeConversations\obj\Debug\net7.0\TypeConversations.dll
+C:\Users\HP\Desktop\training\TypeConversations\obj\Debug\net7.0\refint\TypeConversations.dll
+C:\Users\HP\Desktop\training\TypeConversations\obj\Debug\net7.0\TypeConversations.pdb
+C:\Users\HP\Desktop\training\TypeConversations\obj\Debug\net7.0\TypeConversations.genruntimeconfig.cache
+C:\Users\HP\Desktop\training\TypeConversations\obj\Debug\net7.0\ref\TypeConversations.dll
